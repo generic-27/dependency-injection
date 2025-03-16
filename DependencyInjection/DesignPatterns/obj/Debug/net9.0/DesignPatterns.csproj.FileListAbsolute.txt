@@ -1,0 +1,15 @@
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/bin/Debug/net9.0/DesignPatterns
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/bin/Debug/net9.0/DesignPatterns.deps.json
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/bin/Debug/net9.0/DesignPatterns.runtimeconfig.json
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/bin/Debug/net9.0/DesignPatterns.dll
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/bin/Debug/net9.0/DesignPatterns.pdb
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.AssemblyInfo.cs
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.sourcelink.json
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.dll
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/refint/DesignPatterns.dll
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.pdb
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/DesignPatterns.genruntimeconfig.cache
+/Users/dheeraj/Documents/GithubGeneric27/dependency-injection/DependencyInjection/DesignPatterns/obj/Debug/net9.0/ref/DesignPatterns.dll
