@@ -1,9 +1,6 @@
-using DesignPatterns.Structural.Decorator;
-using DesignPatterns.Structural.Decorator.Interfaces;
+using DesignPatterns.Structural.Decorator.MessageWriter;
+using DesignPatterns.Structural.Decorator.MessageWriter.Interfaces;
 
-ICar car = new RedPaintDecorator(new BasicCar());
-
-Console.WriteLine($"Description: {car.GetDescription()}");
-Console.WriteLine($"Price: {car.GetPrice()}");
-Console.WriteLine($"Range: {car.GetRange()}");
-
+IMessageWriter messageWriter = new ConsoleMessageWriter();
+var salutation = new Salutation(messageWriter);
+salutation.Exclaim();
